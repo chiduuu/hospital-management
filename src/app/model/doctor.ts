@@ -1,5 +1,5 @@
 export interface doctor {
-    id: string,
+    id?: string,
     name: string,
     age: number,
     gender: enumGender,
