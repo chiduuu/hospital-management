@@ -23,7 +23,6 @@ ng new hospital-management
 	set-ExecutionPolicy RemoteSigned -Scope CurrentUser
 	Get-ExecutionPolicy -list
 	
-
 cd hospital-management
 	
 npm install bootstrap	
