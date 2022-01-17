@@ -5,6 +5,17 @@ Configure Git
 Install Git
 	https://git-scm.com/download/win
 
+### Steps to commit changes 
+a. git init,
+b. git add .
+c. git commit -m "custom commit message",
+d. git branch -m master
+e. git remote add origin https://github.com/YOURAccount/app-name.git,
+ex: git remote add origin https://github.com/chiduuu/hospital-management.git
+
+f. git push -u origin master
+info: please complete authentication in your browser... 
+
 ###### Installations
 Setup Angular 
 	https://angular.io/guide/setup-local
