@@ -33,13 +33,13 @@ ng serve --open
 ### Commands used to create all components and services
 Create doctor and patient folder under app
 1. cd src/app/doctor
-ng g c create-doctor
-ng g c get-doctor
+ng g c create-doctor,
+ng g c get-doctor,
 ng g c doctor-list
 
 2. cd src/app/patient
-ng g c create-patient
-ng g c get-patient
+ng g c create-patient,
+ng g c get-patient,
 ng g c patient-list
 
 cd.. 
